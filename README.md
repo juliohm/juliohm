@@ -10,6 +10,6 @@ in the Earth sciences.
 
 To fund this work I have chosen to rely on the direct support of the community. Having an additional incentive in the form of recurrent donations would be highly appreciated. I plan to use the money to create more educational material and for marketing purposes.
 
-Any support is welcome ❤️
+Be the first to support my work ❤️
 
 [![Liberapay](https://img.shields.io/badge/Liberapay-yellow.svg?style=for-the-badge&logo=liberapay)](https://liberapay.com/juliohm)
