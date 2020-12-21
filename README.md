@@ -5,8 +5,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCiOnsyYAZM-voi5diu8lN9w)
 
 I am the founder of [JuliaEarth](https://github.com/JuliaEarth), an organization that maintains top-quality
-open source software for geostatistics and other specialized branches of statistics that are very relevant
-in the Earth sciences.
+open source software for geostatistics and other specialized branches of statistics that are relevant in the
+Earth sciences.
 
 To fund this work I have chosen to rely on the direct support of the community. Having an additional incentive in the form of recurrent donations would be highly appreciated. I plan to use the money to create more educational material and for marketing purposes.
 
