@@ -8,8 +8,7 @@ I am the founder of [JuliaEarth](https://github.com/JuliaEarth), an organization
 open source software for geostatistics and other specialized branches of statistics that are relevant in the
 Earth sciences.
 
-To fund this work I have chosen to rely on the direct support of the community. Having an additional incentive in the form of recurrent donations would be highly appreciated. I plan to use the money to create more educational material and for marketing purposes.
-
-Be the first to support my work ❤️
+To fund this work I have chosen to rely on the direct support of the community ❤️
 
 [![Liberapay](https://img.shields.io/badge/Liberapay-yellow.svg?style=for-the-badge&logo=liberapay)](https://liberapay.com/juliohm)
+[![Amazon](https://img.shields.io/badge/Amazon-black.svg?style=for-the-badge&logo=amazon)](https://www.amazon.com/hz/wishlist/ls/1YO1H53HEO824?ref_=wl_share)
