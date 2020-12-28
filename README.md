@@ -10,5 +10,6 @@ Earth sciences.
 
 To fund this work I have chosen to rely on the direct support of the community ❤️
 
-[![Liberapay](https://img.shields.io/badge/Liberapay-yellow.svg?style=for-the-badge&logo=liberapay)](https://liberapay.com/juliohm)
+You can buy me a book from my wish list at Amazon 📚
+
 [![Amazon](https://img.shields.io/badge/Amazon-black.svg?style=for-the-badge&logo=amazon)](https://www.amazon.com/hz/wishlist/ls/1YO1H53HEO824?ref_=wl_share)
