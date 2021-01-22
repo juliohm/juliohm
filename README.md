@@ -10,6 +10,6 @@ Earth sciences.
 
 To fund this work I have chosen to rely on the direct support of the community ❤️
 
-You can buy me a book from my wish list at Amazon 📚
+You can buy me a book 📚 from my wish list at Amazon if you like 😊
 
 [![Amazon](https://img.shields.io/badge/Amazon-black.svg?style=for-the-badge&logo=amazon)](https://www.amazon.com/hz/wishlist/ls/1YO1H53HEO824?ref_=wl_share)
