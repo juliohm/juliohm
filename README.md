@@ -8,7 +8,4 @@ I am the founder of [JuliaEarth](https://github.com/JuliaEarth), an organization
 open source software for geostatistics and other specialized branches of statistics that are relevant in the
 Earth sciences.
 
-To fund this work I have chosen to rely on the direct support of the community ❤️
-
-[![Sponsors](https://img.shields.io/github/sponsors/juliohm?style=flat)](https://github.com/sponsors/juliohm)
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiOnsyYAZM-voi5diu8lN9w?style=social)](https://www.youtube.com/channel/UCiOnsyYAZM-voi5diu8lN9w)
