@@ -6,6 +6,8 @@
 
 I am the founder of [JuliaEarth](https://github.com/JuliaEarth), an organization that maintains top-quality
 open source software for geostatistics and other specialized branches of statistics that are relevant in the
-Earth sciences.
+Earth sciences. I am also the lead developer of various packages across different Julia organizations:
+[JuliaGeometry](https://github.com/JuliaGeometry), [JuliaML](https://github.com/JuliaML),
+[JuliaImages](https://github.com/JuliaImages), [JuliaGraphs](https://github.com/JuliaGraphs), ...
 
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiOnsyYAZM-voi5diu8lN9w?style=social)](https://www.youtube.com/channel/UCiOnsyYAZM-voi5diu8lN9w)
