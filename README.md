@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/juliohm/juliohm/master/wave.gif" width="30px">
+### Hi there!
 
 [![Profile](https://img.shields.io/badge/Website-purple.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juliohm.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/j%C3%BAlio-hoffimann-834936116)
