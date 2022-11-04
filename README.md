@@ -15,6 +15,6 @@ You can learn more about my work at various open source organizations I co-found
 - [JuliaGeometry](https://github.com/JuliaGeometry)
 - [JuliaML](https://github.com/JuliaML)
 
-Subscribe to my channel if you are interested in machine learning, geosciences and geospatial technology:
+Subscribe to my channel if you are interested in machine learning, geosciences and geospatial technology.
 
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiOnsyYAZM-voi5diu8lN9w?style=social)](https://www.youtube.com/channel/UCiOnsyYAZM-voi5diu8lN9w)
