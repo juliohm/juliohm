@@ -15,4 +15,8 @@ You can learn more about my work at various open source organizations I co-found
 - [JuliaGeometry](https://github.com/JuliaGeometry)
 - [JuliaML](https://github.com/JuliaML)
 
-Subscribe to my YouTube channel if you are interested in machine learning, geosciences and geospatial technology.
+Would like to sponsor my open source work?
+
+I was approved by the GitHub sponsors program:
+
+https://github.com/sponsors/juliohm/button
