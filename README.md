@@ -17,6 +17,4 @@ You can learn more about my work at various open source organizations I co-found
 
 Would like to sponsor my open source work?
 
-I was approved by the GitHub sponsors program:
-
-https://github.com/sponsors/juliohm/button
+Here is the link: https://github.com/sponsors/juliohm/button
