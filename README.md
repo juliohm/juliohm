@@ -4,17 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/j%C3%BAlio-hoffimann-834936116)
 [![YouTube](https://img.shields.io/badge/YouTube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCiOnsyYAZM-voi5diu8lN9w)
 
-
 I am the founder and CEO of [Arpeggeo®](https://arpeggeo.tech).
 
-You can learn more about my work at various open source organizations I co-founded over the years:
-
-- [JuliaEarth](https://github.com/JuliaEarth)
-- [JuliaImages](https://github.com/JuliaImages)
-- [JuliaGraphs](https://github.com/JuliaGraphs)
-- [JuliaGeometry](https://github.com/JuliaGeometry)
-- [JuliaML](https://github.com/JuliaML)
-
-Would like to sponsor my open source work?
-
-Here is the link: https://github.com/sponsors/juliohm/button
+Feel free to reach out if you need assistance with our technologies.
