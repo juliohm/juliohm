@@ -7,3 +7,7 @@
 I am the founder and CEO of [Arpeggeo®](https://arpeggeo.tech).
 
 Feel free to reach out if you need assistance with our technologies.
+
+<a href="https://juliaearth.github.io/geospatial-data-science-with-julia">
+  <img src="https://juliaearth.github.io/geospatial-data-science-with-julia/images/cover.svg" width="300">
+</a>
